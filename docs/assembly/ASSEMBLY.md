@@ -163,7 +163,7 @@ Repeat for the other eccentric nuts.
 
 Now let's do the same thing for the non-adjustable v-wheels.
 
-Take a 35mm screw and a 5mm spacer with a v-wheel and assemble like below.
+Take a 35mm screw and a 6mm spacer with a v-wheel and assemble like below.
 
 ![PXL_20240613_152104229.jpg](./assets/PXL_20240613_152104229.jpg)
 
@@ -267,7 +267,7 @@ Let's add the eccentric wheel first. Make a stack with the M5x25 screw like so
 
 ![PXL_20240614_194327740.jpg](./assets/PXL_20240614_194327740.jpg)
 
-Attach it to the pen holder by slipping it through the printed part and securing a v-wheel on the back.
+Attach it to the pen holder by slipping it through the printed part and securing a nut on the back.
 
 ![Screenshot 2024-06-14 at 4.54.00 PM.png](./assets/Screenshot%202024-06-14%20at%204.54.00%20PM.png)
 

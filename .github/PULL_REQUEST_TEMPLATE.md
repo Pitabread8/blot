@@ -1,9 +1,5 @@
-- [ ] I have read the steps to [getting a blot](https://github.com/hackclub/blot/blob/main/docs/GET_A_BLOT.md)
-- [ ] I am submitting art that...
-  - [ ] is algorithmically generated (will change each time the program is run)
-  - [ ] is drawable on a blot (fits in the work area & doesn't overlap too much)
-  - [ ] is original (not copied from somewhere else)
-  - [ ] doesn't call `Math.random()` (See the documentation on [randomness](https://github.com/hackclub/blot/blob/main/public/TOOLKIT.md#randomness))
+** Attention!!! Blot is not accepting any further PRs as of right now! Please head over to https://highseas.hackclub.com/ if you would like to work toward a blot. **
 
-- [ ] Optional, if you used a tutorial or based your art on something else, please include the link here:
-- [ ] Optional, if you remixed this from something else, mention it here:
+For a more detailed explanation, please read this slack post: https://hackclub.slack.com/archives/C0188CY57PZ/p1732341551647529?thread_ts=1732313225.355179&cid=C0188CY57PZ
+
+Thanks!
